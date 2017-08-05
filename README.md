@@ -6,6 +6,6 @@
 
 Скриншоты:
 
-![windows10](/win.png)
+![windows10](/win.PNG)
 
 ![macosx](/mac.jpg)
